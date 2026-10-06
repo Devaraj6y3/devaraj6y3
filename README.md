@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm S. Sai Devaraj 👋
 
-<!--
-**Devaraj6y3/devaraj6y3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student  
+💻 Interested in Python, Software Development, Data Analysis & Cybersecurity
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Data Structures & Algorithms
+- Data Preprocessing
+- Git & GitHub
+- Cybersecurity Basics
+
+## 📂 Projects
+
+- Python Student Management System
+- Python Expense Tracker
+- Student Grade Calculator
+- Image Steganography
+- Data Preprocessing & Analysis
+
+## 🎯 Currently Learning
+
+- Python
+- DSA
+- SQL
+- Git & GitHub
+- Software Development
+
+## 🚀 Goal
+
+Building practical projects and improving my technical skills for internships and placements.
+
+---
+
+⭐ Thanks for visiting my profile!
